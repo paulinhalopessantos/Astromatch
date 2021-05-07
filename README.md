@@ -28,7 +28,7 @@ com o intuito de praticar os aprendizados adquiridos no curso.
 ## 🏷 Como baixar e rodar o projeto
 ```Bash
 * Clonar o projeto
-$ git clone https://github.com/paulinhalopessantos/pokedex.git
+$ git clone https://github.com/paulinhalopessantos/Astromatch.git
 * Entrar no diretório
 $ cd pokedex
 * Instalar as dependências
